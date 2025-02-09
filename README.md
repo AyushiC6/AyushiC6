@@ -35,6 +35,18 @@ I thrive on crafting innovative solutions that blend technology and creativity. 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-chourasia&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ayushi-chourasia&theme=radical)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushiC6&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AyushiC6&theme=radical" width="48%" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiC6&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+</div>
+
+
 ---
 
 ## 🌱 Aspirations & Goals
