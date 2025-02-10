@@ -1,69 +1,58 @@
-# Hi there, I'm Ayushi Chourasia! 👋
+# Hi there, I'm Ayushi Chourasia 👋  
 
-💻 **Passionate Software Developer** | 🎨 **Creative Thinker** | 🚀 **Tech Enthusiast**
+💻 **Aspiring Software Engineer** | 🚀 **Competitive Programmer** | 🎯 **Problem-Solving Enthusiast**  
 
-I thrive on crafting innovative solutions that blend technology and creativity. My journey in software development is driven by a relentless curiosity and a commitment to excellence.
-
----
-
-## 🔥 About Me
-
-- 🌟 **Innovative Developer** with a flair for **creative problem-solving**.
-- 🎯 Dedicated to building **user-centric applications** that make a difference.
-- 🧠 Constantly exploring new **technologies and methodologies** to enhance my skill set.
-- 💡 Believer in the power of **collaboration and continuous learning**.
-- 📈 Focused on developing **scalable and efficient software solutions**.
+Passionate about **solving complex problems**, writing **efficient code**, and building **impactful software**. I thrive on **competitive programming, software development, and web technologies**, aiming to push my limits every day. My goal? To become a **world-class software engineer** at a leading tech company! 🌍✨  
 
 ---
 
-## 🚀 Tech Stack
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+## 🔥 About Me  
+- 🎯 **Dedicated Software Engineer in the making**, focusing on **high-performance coding & problem-solving**.  
+- 🏆 Active on **Codeforces, LeetCode, CodeChef, and HackerRank**, constantly improving my **DSA & algorithmic skills**.  
+- 🚀 Passionate about **software development, system design, and full-stack web development**.  
+- 🌟 Enthusiastic about **open-source contributions** and **collaborative coding projects**.  
+- 📈 Strong believer in **continuous learning & technical excellence**.  
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushi-chourasia&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-chourasia&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ayushi-chourasia&theme=radical)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushiC6&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=AyushiC6&theme=radical" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiC6&layout=compact&theme=radical" width="48%" alt="Top Languages" />
-</div>
-
+## 🚀 Tech Stack  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ---
 
-## 🌱 Aspirations & Goals
-
-- 🏆 Aim to become a **leading software engineer** specializing in **full-stack development**.
-- 🌐 Passionate about contributing to **open-source projects** and engaging with the developer community.
-- 🔥 Eager to master **cutting-edge technologies** and apply them to real-world challenges.
-- 🚀 Committed to building **inclusive and accessible applications** that serve diverse user needs.
-- 🎯 Aspiring to join a **forward-thinking tech company** that values **innovation and creativity**.
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushichourasia3&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichourasia3&layout=compact&theme=dark)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ayushichourasia3&theme=dark)  
 
 ---
 
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-chourasia)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ayushi-chourasia)
+## 🌱 Aspirations & Goals  
+- 🚀 **Master advanced problem-solving techniques** and ace **technical interviews**.  
+- ⚡ Work on **scalable applications** and contribute to **open-source projects**.  
+- 🔥 Build **real-world software solutions** that solve challenging industry problems.  
+- 🎯 Land a **software engineering role at a top-tier tech company**.  
+- 📖 Keep evolving, learning **new technologies**, and refining **coding best practices**.  
 
 ---
 
-💡 *"Embracing technology to create, innovate, and inspire."*
+## 🏆 Competitive Programming & Profiles  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ayushichourasia3)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ayushichourasia3)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ayushichourasia3)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/ayushichourasia3)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ayushichourasia3)  
+
+---
+
+## 🔗 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushichourasia3)  
+
+---
+
+💡 *"Driven by passion, curiosity, and a hunger for solving real-world challenges!"*  
