@@ -25,12 +25,11 @@ Passionate about **solving complex problems**, writing **efficient code**, and b
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushichourasia3&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushichourasia3&layout=compact&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ayushichourasia3&theme=dark)  
+## 📊 GitHub Stats
+![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushi-chourasia&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-chourasia&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ayushi-chourasia&theme=radical)
 
----
 
 ## 🌱 Aspirations & Goals  
 - 🚀 **Master advanced problem-solving techniques** and ace **technical interviews**.  
